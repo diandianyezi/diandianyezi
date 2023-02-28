@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-second.vercel.app/api/top-langs/?username=diandianyezi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![diandianyezi's github activity graph](https://activity-graph.herokuapp.com/graph?username=diandianyezi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![diandianyezi's github activity graph](https://github-readme-activity-graph.cyclic.com/graph?username=diandianyezi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-WebRTC-008000?style=flat-square&logo=WebRTC&labelColor=90EE90&color=fff)
